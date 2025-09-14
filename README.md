@@ -1,5 +1,5 @@
-# Hi 👋, I'm Suraj Prakash Singh  
-A passionate software developer from India  
+                                                              # Hi 👋, I'm Suraj Prakash Singh  
+                                                           A passionate software developer from India  
 
 ---
 
