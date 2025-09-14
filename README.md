@@ -1,5 +1,5 @@
 # Hi 👋, I'm Suraj Prakash Singh  
-A passionate full stack developer from Delhi,India. 
+A passionate software developer from Delhi,India. 
                                                               
 ---
 
@@ -9,7 +9,7 @@ A passionate full stack developer from Delhi,India.
 ---
 
 ### 🔗 Connect with me  
-<a href="https://www.linkedin.com/in/yourprofile/">
+<a href="https://www.linkedin.com/in/surajsingh49/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
 </a>
 <a href="https://twitter.com/yourprofile">
