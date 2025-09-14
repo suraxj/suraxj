@@ -1,6 +1,6 @@
-                                                              # Hi 👋, I'm Suraj Prakash Singh  
-                                                           A passionate software developer from India  
-
+# Hi 👋, I'm Suraj Prakash Singh  
+A passionate full stack developer from India  
+                                                              
 ---
 
 ### 📫 How to reach me  
